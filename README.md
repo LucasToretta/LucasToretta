@@ -8,26 +8,25 @@ Desde 2024, desenvolvo projetos práticos focados em interfaces web responsivas 
 
 ### Detalhes
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasToretta&show_icons=true&theme=dark&cache_seconds=86400)](https://github.com/LucasToretta)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasToretta&theme=github_dark)
 
 ---
 
 ### Projetos em destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasToretta&repo=Clone_Disney_Plus&theme=dark&cache_seconds=86400)](https://github.com/LucasToretta/Clone_Disney_Plus)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasToretta&repo=ebac_sports&theme=dark&cache_seconds=86400)](https://github.com/LucasToretta/ebac_sports)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasToretta&repo=imc-calculator&theme=dark&cache_seconds=86400)](https://github.com/LucasToretta/imc-calculator)
+- [Clone Disney Plus](https://github.com/LucasToretta/Clone_Disney_Plus)
+- [EBAC Sports](https://github.com/LucasToretta/ebac_sports)
+- [IMC Calculator](https://github.com/LucasToretta/imc-calculator)
 
 ---
 
 ### Linguagens mais utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasToretta&layout=compact&theme=dark&cache_seconds=86400)](https://github.com/LucasToretta)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasToretta&theme=github_dark)
 
 ---
 
 ### Contato
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">](https://www.linkedin.com/in/lucas-toretta/)
+
