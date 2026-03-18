@@ -1,7 +1,7 @@
 ### Olá 👋
 
 ###### Sobre o Lucas
-Desenvolvedor Front-End em formação, em transição de carreira para tecnologia.  
+Desenvolvedor Front-End, em transição de carreira para tecnologia.  
 Desde 2024, desenvolvo projetos práticos focados em interfaces web responsivas e bem estruturadas, utilizando HTML, CSS, JavaScript e React.
 
 ---
@@ -16,7 +16,7 @@ Desde 2024, desenvolvo projetos práticos focados em interfaces web responsivas 
 
 - [Clone Disney Plus](https://github.com/LucasToretta/Clone_Disney_Plus)
 - [EBAC Sports](https://github.com/LucasToretta/ebac_sports)
-- [IMC Calculator](https://github.com/LucasToretta/imc-calculator)
+- [Clone do iFood (eFood)](https://efood-ebac-final.vercel.app)
 
 ---
 
